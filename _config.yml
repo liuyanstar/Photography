@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+# Base configs
+baseurl: "https://liuyanstar.github.io/Photography/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Henry Lau"
+subtitle: "See the world through my eyes!"
+author: "Henry Lau"
+header:
+ title: "Photography"
+ subtitle: "by Henry Lau"
+footer:
+ name: "Hey there, my name is Henry"
+ bio: "Welcome"
+ github: ""
+web_design: "AJ"
+social_urls:
+  facebook: ""
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
